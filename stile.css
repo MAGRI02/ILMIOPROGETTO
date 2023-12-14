@@ -1,7 +1,7 @@
 body 
 header {
     background-color: #31165c;
-    color: #e60b0b;
+    color: #fbff04;
     text-align: center;
     padding: 1em;
 }
@@ -10,18 +10,18 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: pink;
-    color: #c76868;
+    background-color: rgb(255, 255, 255);
+    color: #000000;
 }
 
 nav {
     display: flex;
     justify-content: space-around;
-    background-color: #455031;
+    background-color: #b2f2f7;
     padding: 0.5em;
 }
 nav a {
-    color: #ce2929;
+    color: #000000;
     text-decoration: none;
 }
 section {
